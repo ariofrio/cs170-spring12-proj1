@@ -1,4 +1,4 @@
-The assignment in question is [here](http://www.cs.ucsb.edu/~chris/teaching/cs170/projects/proj1.html). So far, I have implemented a very simple shell, that supports running programs with arguments. There is no support for operators `&`, `|`, `<`, `>`. It also doesn't support the `-n` option just yet. Otherwise, it works! :-)
+The assignment in question is [here](http://www.cs.ucsb.edu/~chris/teaching/cs170/projects/proj1.html). So far, I have implemented a very simple shell, that supports running programs with arguments. There is no support for operators `&`, `|`, `<`, `>`. It also doesn't support the `-n` option just yet. Finally, error reporting is non-existant. Otherwise, it works! :-)
 
 ## Sample session
 
