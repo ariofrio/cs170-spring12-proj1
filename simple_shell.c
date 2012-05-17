@@ -23,7 +23,6 @@ int main() {
 
     char* token = strtok(line, " ");
     while(token) {
-      // printf("oh noes: %s\n", token);
       if(!command) command = token;
       arguments[argument_count] = token;
       argument_count++;
